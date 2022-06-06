@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\epitmenyado\epitmenyado\bin\Debug\epitmenyado.exe.config
+C:\Users\david\source\repos\epitmenyado\epitmenyado\bin\Debug\epitmenyado.exe
+C:\Users\david\source\repos\epitmenyado\epitmenyado\bin\Debug\epitmenyado.pdb
+C:\Users\david\source\repos\epitmenyado\epitmenyado\obj\Debug\epitmenyado.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\epitmenyado\epitmenyado\obj\Debug\epitmenyado.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\epitmenyado\epitmenyado\obj\Debug\epitmenyado.exe
+C:\Users\david\source\repos\epitmenyado\epitmenyado\obj\Debug\epitmenyado.pdb
